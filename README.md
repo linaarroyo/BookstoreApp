@@ -1,6 +1,6 @@
 ﻿# BookStore Blazor Application
 
-.NET Core 3.1 Book Store for educational purposes.
+BookStoreApp is a .NET Core 3.1 Bookstore application created for educational purposes.
 
 By working on this project I: 
 
